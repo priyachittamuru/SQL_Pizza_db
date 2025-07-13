@@ -47,13 +47,6 @@ This repository contains Pizza Sales Analysis mini project using SQL to uncover 
 
 ---
 
-## 📚 Dataset
-
-- **Dataset:** Pizza Sales Dataset (attached in the repository)
-- **Tables Include:** Orders, Order Details, Pizzas, Pizza Categories, etc.
-
----
-
 ## ✨ Expected Outcomes
 
 By completing this project, you will gain hands-on experience with:
